@@ -61,7 +61,7 @@ html2text
 bs4
 fontTools
 bing_image_downloader
-search_engine_parser
+search-engine-parser[cli]
 pytz
 lyricsgenius
 tswift
